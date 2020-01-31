@@ -1,6 +1,6 @@
 # javascript
 
-Project Javascript - Site Nutrição
+Project Javascript - Site Nutrição - Formação Oracle Next Education
 
 Link do Projeto: http://nutricao.surge.sh/
 
